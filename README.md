@@ -2,6 +2,8 @@
 
 ###### I'm Sanchit.
 
+- About me: https://sesanchit.github.io/
+
 <!--
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning ...
